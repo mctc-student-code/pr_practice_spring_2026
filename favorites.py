@@ -32,7 +32,7 @@ print(f'One of ITEC 2905s favorite places is {favorite_place}')
 
 ## 6. Favorite Holiday
 
-favorite_holiday = ''
+favorite_holiday = 'Christmas'
 print(f'One of ITEC 2905s favorite holidays is {favorite_holiday}')
 
 ## 7. Favorite Book
