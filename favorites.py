@@ -8,7 +8,7 @@ print(f'One of ITEC 2905s favorite colors is {favorite_color}')
 
 # 2. Favorite Food
 
-favorite_food = ''
+favorite_food = 'Sushi'
 print(f'One of ITEC 2905s favorite foods is {favorite_food}')
 
 
