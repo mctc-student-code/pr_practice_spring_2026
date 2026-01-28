@@ -14,8 +14,8 @@ print(f'One of ITEC 2905s favorite foods is {favorite_food}')
 
 # 3. Favorite Movie or TV Show
 
-favorite_movie = ''
-print(f'One of ITEC 2905s favorite movies is {favorite_movie}')
+favorite_movie = 'Suits'
+print(f'One of ITEC 2905s favorite tv shows is {favorite_movie}')
 
 
 ## 4. Favorite Music
