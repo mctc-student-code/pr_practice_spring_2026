@@ -91,7 +91,7 @@ print(f'One of ITEC 2905s favorite websites is {favorite_website}')
 
 ## 16. Favorite Season
 
-favorite_season = ''
+favorite_season = 'spring'
 print(f'One of ITEC 2905s favorite seasons is {favorite_season}')
 
 
