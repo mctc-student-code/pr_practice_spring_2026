@@ -85,7 +85,7 @@ print(f'One of ITEC 2905s favorite modes of transportation is {favorite_transpor
 
 ## 15. Favorite Website
 
-favorite_website = ''
+favorite_website = 'Hacker News'
 print(f'One of ITEC 2905s favorite websites is {favorite_website}')
 
 
