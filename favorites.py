@@ -79,7 +79,7 @@ print(f'One of ITEC 2905s favorite programming languages is {favorite_programmin
 
 ## 14. Favorite Mode of Transportation
 
-favorite_transportation = ''
+favorite_transportation = 'bike'
 print(f'One of ITEC 2905s favorite modes of transportation is {favorite_transportation}')
 
 
