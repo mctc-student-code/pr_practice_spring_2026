@@ -20,7 +20,7 @@ print(f'One of ITEC 2905s favorite movies is {favorite_movie}')
 
 ## 4. Favorite Music
 
-favorite_music = ''
+favorite_music = 'Blue October'
 print(f'One of ITEC 2905s favorite types of music is {favorite_music}')
 
 
